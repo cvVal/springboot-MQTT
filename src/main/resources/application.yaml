@@ -1,0 +1,8 @@
+mqtt:
+  broker-address: broker.emqx.io
+  broker-port: 8083
+  topic: notification/demo
+  tls: true
+  client-id: serverOut
+  username: your-username
+  password: your-password
